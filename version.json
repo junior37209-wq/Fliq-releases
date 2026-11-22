@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "url": "https://github.com/junior37209-wq/Fliq-releases/releases/latest/download/Fliq.apk",
-  "notes": "خصوصية أعلى: مسح تلقائي للشاتات بعد 7 أيام من آخر رسالة مع زرار احفظ المحادثة + حالة المؤقت ظاهرة جوّه الشات",
+  "notes": "شاشة مكالمات جديدة بالكامل: تصميم غامق شيك، صورة كبيرة، أزرار دائرية واضحة، حركات ناعمة، والأزرار بتختفي لوحدها في الفيديو",
   "force": false
 }
