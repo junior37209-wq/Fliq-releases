@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
+  "versionCode": 5,
+  "versionName": "1.0.4",
   "url": "https://github.com/junior37209-wq/Fliq-releases/releases/latest/download/Fliq.apk",
-  "notes": "الفقاعة بتفتح المحادثة في نافذة عايمة فوق أي تطبيق + إصلاح صوت الإشعارات وقايمة التطبيقات المفتوحة وصور العرض مرة واحدة",
+  "notes": "خصوصية أعلى: مسح تلقائي للشاتات بعد 7 أيام من آخر رسالة مع زرار احفظ المحادثة + حالة المؤقت ظاهرة جوّه الشات",
   "force": false
 }
