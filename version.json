@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "url": "https://github.com/junior37209-wq/Fliq-releases/releases/latest/download/Fliq.apk",
-  "notes": "إصلاح فتح التطبيق بالبصمة، حوارات بتصميم التطبيق بالعربي، إزالة عناصر الاختبار من الواجهة",
+  "notes": "كارت دعوة مع QR ولينك تحميل مباشر + تنبيه بالتحديثات الجديدة جوه التطبيق",
   "force": false
 }
