@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 7,
+  "versionName": "1.0.6",
   "url": "https://github.com/junior37209-wq/Fliq-releases/releases/latest/download/Fliq.apk",
-  "notes": "شاشة مكالمات جديدة بالكامل: تصميم غامق شيك، صورة كبيرة، أزرار دائرية واضحة، حركات ناعمة، والأزرار بتختفي لوحدها في الفيديو",
+  "notes": "شيلنا التسجيل السريع (الحساب المؤقت) من شاشة الدخول + تحسين شاشة الفيديو المتصلة",
   "force": false
 }
