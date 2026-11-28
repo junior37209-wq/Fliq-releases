@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.24",
+  "versionCode": 26,
+  "versionName": "1.0.25",
   "url": "https://github.com/junior37209-wq/Fliq-releases/releases/latest/download/Fliq.apk",
-  "notes": "التحديث من جوه البرنامج + بحث في الشات + إصلاح الألوان + مؤشر كتابة/تسجيل + تحميل صور زي واتساب",
+  "notes": "رد من الإشعار + زرار مقروء + شكل إشعار Fliq الجديد + نغمة إشعار من اختيارك + سوايب للرد في الشات",
   "force": false
 }
