@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.25",
+  "versionCode": 27,
+  "versionName": "1.0.26",
   "url": "https://github.com/junior37209-wq/Fliq-releases/releases/latest/download/Fliq.apk",
-  "notes": "رد من الإشعار + زرار مقروء + شكل إشعار Fliq الجديد + نغمة إشعار من اختيارك + سوايب للرد في الشات",
+  "notes": "شريط الرسائل المؤقتة تحت اسم الشات (بيوضح المدة ويفتح قائمة التغيير) — المسح التلقائي لسه مقفول",
   "force": false
 }
